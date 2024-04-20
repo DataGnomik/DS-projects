@@ -1,5 +1,6 @@
 Папки содержат в себе тренировочные работы посвящённые анализу данных
 
 - kaggle
-    -- titanik-try          (https://www.kaggle.com/competitions/titanic)
-    -- house-prices 	    (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+    -- titanik-try                          (https://www.kaggle.com/competitions/titanic)
+    -- house-prices 	                    (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+    -- Regression with an Abalone Dataset   (https://www.kaggle.com/c/playground-series-s4e4)
